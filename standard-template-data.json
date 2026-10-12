@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-12T01:58:48.775287500Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-12T02:02:12.237382168Z",
     "templateType": "trip_g",
     "propertyId": "31948c34-b5e8-430b-8aba-dd81e3253f3f",
     "homepageId": "01a0ecae-34eb-7790-9d17-fe502dfc2400"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션측에 반드시 사전연락 부탁드립니다.\n※ 퇴실 11시 이후 시간당 3만원의 추가요금이 발생합니다.",
-    "usageGuide": "[공지사항]\n※ 반려동물(반려견,반려묘 포함) 동반 입실 불가\n※ 예약인원 외 방문객 입실 불가(적발 시 환불 없이 강제퇴실)\n※ 객실 내 육류,생선류 조리 불가(바베큐장에서만 가능)\n※ 20시 이후 입실 시 사전 연락 필수\n※ 전 객실 금연\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션측에 반드시 사전연락 부탁드립니다.\n※ 퇴실 11시 이후 시간당 3만원의 추가요금이 발생합니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 침구 추가 시 10,000원\n\n[스파]\n- 이용 객실: 전객실\n- 스파 형태: 월풀스파\n- 수용 인원: 6인용\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 이용 시간: 16:00 ~ 23:00\n- 입욕제 사용: 불가\n※ 온도: 40~45도 유지\n※ 온도 조절 가능 (1도 올리는데 1시간 소요)\n※ 복장: 래쉬가드, 수영복, 반팔티&반바지\n※ 매일 물교체 및 소독 진행\n※ 입실일 1일전까지 사전 예약 필수\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 보유 (개인계정 필요)\n- 넷플릭스 외 OTT 미보유\n- 전객실에 키즈놀이방, 장난감 구비\n- 전객실에 세탁기 구비\n- 엘리베이터 미보유\n- 차량 2분 거리에 편의점 위치\n\n[교통편]\n주소 / 네비게이션에 '고성 파인트리 펜션'을 검색해주세요",
+    "usageGuide": "※ 반려동물(반려견,반려묘 포함) 동반 입실 불가\n※ 예약인원 외 방문객 입실 불가(적발 시 환불 없이 강제퇴실)\n※ 객실 내 육류,생선류 조리 불가(바베큐장에서만 가능)\n※ 20시 이후 입실 시 사전 연락 필수\n※ 전 객실 금연\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션측에 반드시 사전연락 부탁드립니다.\n※ 퇴실 11시 이후 시간당 3만원의 추가요금이 발생합니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 30,000원, 아동 1인 30,000원, 유아 1인 30,000원\n(1박기준/현장결제)\n※ 침구 추가 시 10,000원\n\n[스파]\n- 이용 객실: 전객실\n- 스파 형태: 월풀스파\n- 수용 인원: 6인용\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 이용 시간: 16:00 ~ 23:00\n- 입욕제 사용: 불가\n※ 온도: 40~45도 유지\n※ 온도 조절 가능 (1도 올리는데 1시간 소요)\n※ 복장: 래쉬가드, 수영복, 반팔티&반바지\n※ 매일 물교체 및 소독 진행\n※ 입실일 1일전까지 사전 예약 필수\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 보유 (개인계정 필요)\n- 넷플릭스 외 OTT 미보유\n- 전객실에 키즈놀이방, 장난감 구비\n- 전객실에 세탁기 구비\n- 엘리베이터 미보유\n- 차량 2분 거리에 편의점 위치\n\n[교통편]\n주소 / 네비게이션에 '고성 파인트리 펜션'을 검색해주세요",
     "reservationGuide": "※ 반려동물(반려견,반려묘 포함) 동반 입실 불가\n※ 예약인원 외 방문객 입실 불가(적발 시 환불 없이 강제퇴실)\n※ 객실 내 육류,생선류 조리 불가(바베큐장에서만 가능)\n※ 20시 이후 입실 시 사전 연락 필수\n※ 전 객실 금연",
     "province": "도/시",
     "city": "시/군/구",
@@ -154,7 +154,7 @@
       {
         "id": "01a0ecae-1ea6-7034-a37f-34f7e8bf978e",
         "name": "카페",
-        "description": "펜션 바로 옆에 \"준카페\" 가 있습니다.\n차로 이동할 필요 없이 도보로 다양한 음료와\n커피를 편리하게 이용하실 수 있습니다.\n담소를 나누며 낭만적인 시간을 즐겨보세요.",
+        "description": "",
         "usageGuide": "",
         "displayOrder": 2,
         "images": [
@@ -185,34 +185,9 @@
         ]
       },
       {
-        "id": "01a0ecae-1ea3-7a4e-b616-84866412e84c",
-        "name": "조식 서비스",
-        "description": "",
-        "usageGuide": "- 2026년 5월 31일까지 조식(4인) 무료 이벤트 진행 중\n- 메뉴: 밥 + 국 + 반찬 3가지\n- 이용 요금: 4인 무료 / 1인분 추가 시 10,000원 (1박기준/현장결제)\n- 이용 시가: 오전 9시 제공\n- 이용 장소: 객실로 가져다 드립니다.\n※ 이용 전 날 사전 예약 필수\n※ 메뉴는 상시 변경됩니다",
-        "displayOrder": 3,
-        "images": [
-          {
-            "id": "01a0ecae-29ee-79b1-8e9d-9684d7a5c174",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ecae-1ea3-7a4e-b616-84866412e84c/main/1790677231480-964kb3tqlb.webp",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a0ecae-2bf8-781d-a461-ead73d7f16b1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ecae-1ea3-7a4e-b616-84866412e84c/main/1790677231677-0jrwwul3mx.webp",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
         "id": "17364355-c614-4c32-8cff-5e917d956ab5",
         "name": "편의 및 주변 시설",
-        "description": "전 객실에 세탁기가 구비되어 있습니다.\n여행 중 더러워진 옷들을 세탁해보세요",
+        "description": "",
         "usageGuide": "- 와이파이 보유\n- 넷플릭스 보유 (개인계정 필요)\n- 넷플릭스 외 OTT 미보유\n- 전객실에 키즈놀이방, 장난감 구비\n- 전객실에 세탁기 구비\n- 엘리베이터 미보유\n- 차량 2분 거리에 편의점 위치",
         "displayOrder": 4,
         "images": [
@@ -302,7 +277,7 @@
           {
             "id": "ba092b57-35c4-40b7-9046-e50ee55fcd08",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/e3CbFw0QEjSi.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -312,7 +287,7 @@
           {
             "id": "39720ff7-2e2f-4424-8ac2-8f462392b527",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/7SgMfPyhO84r.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -320,7 +295,7 @@
           {
             "id": "e50e53d8-80a9-4e45-a8c5-7888c2f0b2ce",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/mlM7Ah659qxC.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -328,7 +303,7 @@
           {
             "id": "72d76ac4-e196-4b66-b2b4-8ad030fe17c9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/qmWSvbjCAgr3.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -336,7 +311,7 @@
           {
             "id": "a4d6209a-17c5-4204-a421-bd12c237b43d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/yAfxth46nGrK.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -344,7 +319,7 @@
           {
             "id": "adf06f24-db8a-48f3-9cd7-7be2da86520a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/hYzyEwTCpbfV.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -352,7 +327,7 @@
           {
             "id": "796c3dcf-888b-4507-9aea-45bcb1901cf0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/dMwc8zaxlSQm.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -360,7 +335,7 @@
           {
             "id": "175e03ad-6fdf-44b4-807d-31ccec1ed874",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/foWZeAlS1CQm.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -368,7 +343,7 @@
           {
             "id": "be2fd616-dfc5-468f-afcb-e8998dbc1d9f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/Pwpbehvql0id.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1882,7 +1857,28 @@
             ]
           }
         ],
-        "facility": [ ],
+        "facility": [
+          {
+            "id": "01a0ecae-1ea6-7034-a37f-34f7e8bf978e",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
